@@ -4,7 +4,7 @@
 
 Работу приложения можно посмотреть по ссылке [calendar-test](https://voodo13.github.io/calendar-test-dist/)
 
-<img src="screen.jpg" alt="drawing" height="400"/>
+<img src="screen.jpg" alt="drawing" height="400" align="left"/>
 <img src="screen-2.jpg" alt="drawing" height="400"/>
 
 ## Стек:
